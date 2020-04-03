@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "idade": "30",
+      "name": "Paulo Ricardo",
+      "email": "paulor8bit@gmail.com",
+      "id": 1
+    },
+    {
+      "idade": "30",
+      "name": "Sakura Card Captors",
+      "email": "sakura@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Raquel",
+      "email": "thunder.momo@gmail.com",
+      "idade": "29",
+      "id": 3
+    }
+  ]
+}
